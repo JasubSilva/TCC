@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Sofia+Sans:wght@700;800&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #F5F5F5;  
+}
+
+header{
+    background-color: #060604;
+}
+
+/*Texto*/
+
+.texto__1 {
+    font-size: 70px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: #DEA500;
+}
+
+h1{
+    font-size: 48px;
+    font-family: 'Sofia Sans', sans-serif;
+    color: #DEA500;
+}
+
+/*Estadio Pagina Principal*/
+
+.estadio{
+    width: 100%;
+    padding-top: 8px;
+}
+
+/*Rodapé*/
+
+.rodape {
+    padding: 10px;
+    background-color: #060604;
+    color: #DEA500;
+    font-size: 48px;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.logo{
+    width: 10%;
+}
+
